@@ -24,7 +24,7 @@
 
 <div>
   <a src="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="50"/>
+    <img src="./img/C.svg" height="50"/>
   </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50"/>
