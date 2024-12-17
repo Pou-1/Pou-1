@@ -3,7 +3,7 @@
 ## My statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pou-1&theme=transparent&rank_icon=github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pou-1&theme=radical&rank_icon=Pou-1" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
