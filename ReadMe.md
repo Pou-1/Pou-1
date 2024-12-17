@@ -3,11 +3,11 @@
 ## My statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pou-1&theme=radical&rank_icon=github&border_color=#0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pou-1&theme=radical&rank_icon=github&hide_border=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pou-1&layout=compact&langs_count=8&card_width=320&theme=radical&border_color=#0d1117" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pou-1&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border" />
 </a>
 
 ## Web
