@@ -33,6 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="50"/>
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pou-1&theme=github-compact&radius=16" height="auto" alt="Graph of my contribution"/>
 
 ## Uwu
 
