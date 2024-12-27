@@ -1,6 +1,6 @@
 # Hi !
 
-## My statistics
+<h2>My stats</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pou-1&theme=radical&rank_icon=github&hide_border=true" />
@@ -11,6 +11,7 @@
 </a>
 
 <br>
+<h2>This month</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pou-1&theme=monokai&radius=16" height="auto" alt="Graph of my contribution"/>
 <br>
 
