@@ -11,7 +11,7 @@
 </a>
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pou-1&theme=github-compact&radius=16" height="auto" alt="Graph of my contribution"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pou-1&theme=monokai&radius=16" height="auto" alt="Graph of my contribution"/>
 <br>
 
 ## Web
