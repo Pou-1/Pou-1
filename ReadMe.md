@@ -38,7 +38,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="50"/>
 </div>
-
-## Uwu
-
-![Me Uwu](ultrakill.jpeg)
